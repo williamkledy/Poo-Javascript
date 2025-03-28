@@ -16,6 +16,7 @@ class Cachorro extends Animal{
     fazerSom(){
         console.log(this.nome,"Latiu")
     }
+    
 }
 
 
